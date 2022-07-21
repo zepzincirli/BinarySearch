@@ -7,3 +7,5 @@ Binary Search Tree Projesi
 Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
 
 root=7
+
+<img src="https://github.com/zepzincirli/BinarySearch/blob/main/Binary.PNG">
